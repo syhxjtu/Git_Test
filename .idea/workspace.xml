@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52d7df6b-1118-4722-bdb1-8f5cd280d8f1" name="变更" comment="你大爷的 third commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hehe/Gittest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hehe/Gittest.java" afterDir="false" />
-    </list>
+    <list default="true" id="52d7df6b-1118-4722-bdb1-8f5cd280d8f1" name="变更" comment="你大爷的 gitee test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +18,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="syhway &lt;1461507176@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="dev1_hotfix" />
@@ -115,7 +123,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667567938639</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="你大爷的 gitee test">
+      <created>1667573866077</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667573866077</updated>
+    </task>
+    <task id="LOCAL-00005" summary="你大爷的 gitee test">
+      <created>1667573949673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667573949673</updated>
+    </task>
+    <task id="LOCAL-00006" summary="你大爷的 gitee test">
+      <created>1667574033276</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667574033277</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +174,7 @@
     <MESSAGE value="你大爷的 first commit" />
     <MESSAGE value="你大爷的 second commit" />
     <MESSAGE value="你大爷的 third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="你大爷的 third commit" />
+    <MESSAGE value="你大爷的 gitee test" />
+    <option name="LAST_COMMIT_MESSAGE" value="你大爷的 gitee test" />
   </component>
 </project>
